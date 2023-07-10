@@ -211,3 +211,37 @@ body{
     height: 320px;
 }
 /* discount section css end */
+
+
+/* social media marketing section css start */
+.social-media{
+    margin: 80px auto 0 auto;
+    width: 1040px;
+}
+
+.social-content{
+    text-align: center;
+}
+
+.social-content h1{
+    font-size: 35px;
+    font-weight: 600;
+}
+
+.social-content p{
+    margin-top: 15px;
+}
+
+.social-marketing-img{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 30px;
+    gap: 20px;
+}
+
+.social-marketing-img img{
+    width: 200px;
+    height: 250px;
+}
+/* social media marketing section css end */
