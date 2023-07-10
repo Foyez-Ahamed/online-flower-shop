@@ -58,3 +58,84 @@ body{
     width: 435px;
 }
 /* banner section css end */
+
+
+/* feature section css start */
+.featured-section{
+    margin: 80px auto 0 auto;
+    width: 1040px;
+    
+}
+
+.feature-heading{
+    text-align: center;
+}
+
+.feature-boxes{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.feature-boxes .box-1{
+    width: 300px;
+    height: 350px;
+    background: rgba(167, 33, 98, 0.15);
+    text-align: center;
+    border-radius: 300px 300px 0px 0px;
+}
+
+.feature-boxes .box-1 img{
+    width: 200px;
+    padding-top: 75px;
+}
+
+.feature-boxes .box-2{
+    width: 300px;
+    height: 350px;
+    background: rgba(5, 151, 160, 0.15);
+    text-align: center;
+    border-radius: 300px 300px 0px 0px;
+}
+
+.feature-boxes .box-2 img{
+    width: 200px;
+    padding-top: 85px;
+}
+
+.feature-boxes .box-3{
+    width: 300px;
+    height: 350px;
+    background: rgba(71, 125, 17, 0.15);
+    text-align: center;
+    border-radius: 300px 300px 0px 0px;
+}
+
+.feature-boxes .box-3 img{
+    width: 200px;
+    padding-top: 50px;
+}
+
+.boxes-caption{
+    display: flex;
+    justify-content: space-between;
+}
+
+.boxes-caption .caption-1{
+    margin-top: 15px;
+    margin-left: 60px;
+    border-bottom: 1px solid #000000;
+}
+
+.boxes-caption .caption-2{
+    margin-top: 15px;
+    border-bottom: 1px solid #000000;
+}
+
+.boxes-caption .caption-3{
+    margin-top: 15px;
+    margin-right: 80px;
+    border-bottom: 1px solid #000000;
+}
+/* feature section css end */
