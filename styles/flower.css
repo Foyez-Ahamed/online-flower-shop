@@ -8,3 +8,53 @@
 body{
     font-family: 'Lato', sans-serif;
 }
+
+/* banner section css start */
+.banner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100vh;
+    padding: 60px;
+    background: rgba(229, 84, 115, 0.10);
+    width: 100%;
+}
+
+.banner-content{
+    width: 50%;
+    padding-left: 40px;
+}
+
+.banner-content h1{
+    font-size: 55px;
+    font-weight: 700;
+}
+
+.banner-content p{
+    margin-top: 20px;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.banner-content button{
+    margin-top: 20px;
+    padding: 13px 30px;
+    background: #E55473;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    text-transform: capitalize;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.banner-image{
+    width: 50%;
+    padding-left: 40px;
+}
+
+.banner-image img{
+    margin-top: 13px;
+    width: 435px;
+}
+/* banner section css end */
