@@ -241,7 +241,8 @@ body{
 }
 
 .social-marketing-img img{
-    width: 200px;
-    height: 250px;
+    width: 210px;
+    height: 230px;
+    border-radius: 4px;
 }
 /* social media marketing section css end */
