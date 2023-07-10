@@ -139,3 +139,19 @@ body{
     border-bottom: 1px solid #000000;
 }
 /* feature section css end */
+
+
+/* services section css start */
+.services{
+    width: 1040px;
+    margin: 80px auto 0 auto;
+    background: rgba(39, 39, 39, 0.05);
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+    padding: 70px;
+    line-height: 40px;
+    border-radius: 5px;
+}
+/* services section css end */
