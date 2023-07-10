@@ -164,3 +164,50 @@ body{
     border-radius: 5px;
 }
 /* services section css end */
+
+/* discount section css start */
+.discount-section{
+    margin-top: 80px;
+    width: 100%;
+    background: rgba(229, 84, 115, 0.05);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 80px;
+}
+
+.hot-deal{
+    text-align: center;
+    margin-left: 80px;
+}
+
+.hot-deal h1{
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.hot-deal h1 span {
+  color: #E55473;
+}
+
+.hot-deal p{
+    margin-top: 15px;
+}
+
+.hot-deal button{
+    margin-top: 20px;
+    padding: 13px 30px;
+    background: #E55473;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    text-transform: capitalize;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.product-pic img{
+    margin-right: 80px;
+    height: 320px;
+}
+/* discount section css end */
