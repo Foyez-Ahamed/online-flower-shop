@@ -291,3 +291,37 @@ body{
     border-radius: 3px;
 }
 /* latest deal section css end */
+
+
+/* footer section css start */
+   .footer{
+    margin-top: 90px;
+    background: #000000;
+    padding: 80px;
+    color: #fff;
+   }
+
+   .footer-content{
+    text-align: center;
+   }
+
+   .footer-content h1{
+    font-size: 35px;
+    font-weight: 600;
+   }
+
+   .footer-content h1 span{
+    color: #E55473;
+   }
+
+   .footer-content p{
+    margin-top: 15px;
+   }
+
+   .footer-content .footer-span{
+    display: block;
+    margin-top: 20px;
+    font-size: 12px;
+    font-weight: 300;
+   }
+/* footer section css end */
