@@ -165,6 +165,198 @@ body{
 }
 /* services section css end */
 
+
+/* trending flower section css start */
+   .trending-flower{
+    margin-top: 90px ;
+   }
+
+   .flower-content h1{
+    text-align: center;
+    font-size: 35px;
+    text-transform: capitalize;
+    font-weight: 600;
+   }
+
+   .flower-content p{
+    margin-top: 15px;
+    text-align: center;
+   }
+
+   .flowers{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px;
+    margin-top: 20px;
+    background: #fff;
+   }
+
+   .flower-1{
+    width: 240px;
+    height: 385px;
+    text-align: center;
+    background: rgba(39, 39, 39, 0.05);
+    line-height: 30px;
+    margin-left: 50px;
+    box-shadow: 5px 5px 10px rgba(40, 40, 40, 0.5);
+    border-radius: 5px;
+   }
+
+   .flower-1 img{
+    width: 240px;
+    height: 250px;
+   }
+
+   .flower-1 h3{
+    text-transform: capitalize;
+    font-weight: 400;
+   }
+
+   .flower-1 h5{
+    font-weight: 300;
+   }
+
+   .flower-1 p{
+    font-weight: 370;
+   }
+
+   .flower-1 p span{
+    color: #E55473;
+   }
+
+   .flower-1 button{
+    padding: 5px 10px;
+    border: none;
+    background: #E55473;
+    color: #fff;
+    border-radius: 3px;
+   }
+
+   .flower-2{
+    width: 240px;
+    height: 380px;
+    text-align: center;
+    background: rgba(39, 39, 39, 0.05);
+    line-height: 30px;
+    box-shadow: 5px 5px 10px rgba(40, 40, 40, 0.5);
+    border-radius: 5px;
+   }
+
+   .flower-2 img{
+    width: 240px;
+    height: 250px;
+   }
+
+   .flower-2 h3{
+    text-transform: capitalize;
+    font-weight: 400;
+   }
+
+   .flower-2 h5{
+    font-weight: 300;
+   }
+
+   .flower-2 p{
+    font-weight: 370;
+   }
+
+   .flower-2 p span{
+    color: #E55473;
+   }
+
+   .flower-2 button{
+    padding: 5px 10px;
+    border: none;
+    background: #E55473;
+    color: #fff;
+    border-radius: 3px;
+   }
+
+   .flower-3{
+    width: 240px;
+    height: 380px;
+    text-align: center;
+    background: rgba(39, 39, 39, 0.05);
+    line-height: 30px;
+    box-shadow: 5px 5px 10px rgba(40, 40, 40, 0.5);
+    border-radius: 5px;
+   }
+
+   .flower-3 img{
+    width: 240px;
+    height: 250px;
+   }
+
+   .flower-3 h3{
+    text-transform: capitalize;
+    font-weight: 400;
+   }
+
+   .flower-3 h5{
+    font-weight: 300;
+   }
+
+   .flower-3 p{
+    font-weight: 370;
+   }
+
+   .flower-3 p span{
+    color: #E55473;
+   }
+
+   .flower-3 button{
+    padding: 5px 10px;
+    border: none;
+    background: #E55473;
+    color: #fff;
+    border-radius: 3px;
+   }
+
+   .flower-4{
+    width: 240px;
+    height: 380px;
+    text-align: center;
+    background: rgba(39, 39, 39, 0.05);
+    line-height: 30px;
+    margin-right: 55px;
+    box-shadow: 5px 5px 10px rgba(40, 40, 40, 0.5);
+    border-radius: 5px;
+   }
+
+   .flower-4 img{
+    width: 240px;
+    height: 250px;
+   }
+
+   .flower-4 h3{
+    text-transform: capitalize;
+    font-weight: 400;
+   }
+
+   .flower-4 h5{
+    font-weight: 300;
+   }
+
+   .flower-4 p{
+    font-weight: 370;
+   }
+
+   .flower-4 p span{
+    color: #E55473;
+   }
+
+   .flower-4 button{
+    padding: 5px 10px;
+    border: none;
+    background: #E55473;
+    color: #fff;
+    border-radius: 3px;
+   }
+
+/* trending flower section css end */
+
+
 /* discount section css start */
 .discount-section{
     margin-top: 80px;
